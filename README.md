@@ -8,3 +8,4 @@ Sandeep Lal, 2024, CSE SuperiorSam22
 
 Prakarti Goel, 2024, CSE, prakartigoel24
 
+Piyush Sokhi,2024, CSE, sokhipiyush
