@@ -5,3 +5,6 @@ This repository is made to practise doing open source contributions and to get t
 [ADD YOUR NAME, BATCH , STREAM AND GITHUB HANDLE BELOW]
 
 Sandeep Lal, 2024, CSE SuperiorSam22
+
+Prakarti Goel, 2024, CSE, prakartigoel24
+
